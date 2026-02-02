@@ -6,7 +6,7 @@
 **Link:** https://www.terabyteshop.com.br/produto/40179/placa-de-video-inno3d-nvidia-geforce-rtx-5050-twin-x2-8gb-gddr6-dlss-ray-tracing-n50502-08d6-174071n
 
 # OPÇÃO 2: "A IDEAL" (RTX 5060 TI 16GB) - R$ 3.459,00
-**Para que serve:** O melhor equilíbrio. É a placa para colocar o projeto para rodar com qualidade.
+**Para que serve:** O melhor equilíbrio. É a placa para colocar o projeto para rodar em alguns clientes com qualidade.
 
 **O que entrega:** Permite robôs muito mais inteligentes e que lembram de toda a conversa (lê PDFs, analisa contratos). É rápida e não deixa o cliente esperando.
 

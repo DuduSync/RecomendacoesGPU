@@ -8,7 +8,7 @@
 # OPÇÃO 2: "A IDEAL" (RTX 5060 TI 16GB) - R$ 3.459,00
 **Para que serve:** O melhor equilíbrio. É a placa para colocar o projeto para rodar em alguns clientes com qualidade.
 
-**O que entrega:** Permite robôs muito mais inteligentes e que lembram de toda a conversa (lê PDFs, analisa contratos). É rápida e não deixa o cliente esperando.
+**O que entrega:** Permite robôs muito mais inteligentes. É rápida e não deixa o cliente esperando.
 
 **Link:** https://s.shopee.com.br/1BGX9GYhYG
 

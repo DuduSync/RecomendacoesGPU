@@ -1,0 +1,2 @@
+# RecomendacoesGPU
+Apenas GPUS

@@ -1,25 +1,14 @@
-# RTX 3050 6GB - 1.299,00 (Mais simples, apenas temporário)
-https://www.kabum.com.br/produto/602323/placa-de-video-msi-rtx-3050-ventus-2x-oc-6gb-ram-gddr6-96-bits-912-v812-016
+# OPÇÃO 1: "O BÁSICO" (RTX 5050 8GB) - R$ 1.759,90
+**Para que serve:** Ideal para testes iniciais e assistentes simples.
+**O que entrega:** Roda um robô de chat básico (tipo um atendente simples). Funciona bem para tarefas rápidas, mas não tem muita "memória" para conversas longas.
+**Link:** https://www.terabyteshop.com.br/produto/40179/placa-de-video-inno3d-nvidia-geforce-rtx-5050-twin-x2-8gb-gddr6-dlss-ray-tracing-n50502-08d6-174071n
 
-# RTX 5050 8GB - 1759,90 (SIMPLES PRA COMECAR, NADA DE COMERCIALIZACAO.)
-https://www.terabyteshop.com.br/produto/40179/placa-de-video-inno3d-nvidia-geforce-rtx-5050-twin-x2-8gb-gddr6-dlss-ray-tracing-n50502-08d6-174071n
+# OPÇÃO 2: "A IDEAL" (RTX 5060 TI 16GB) - R$ 3.459,00
+**Para que serve:** O melhor equilíbrio. É a placa para colocar o projeto para rodar com qualidade.
+**O que entrega:** Permite robôs muito mais inteligentes e que lembram de toda a conversa (lê PDFs, analisa contratos). É rápida e não deixa o cliente esperando.
+**Link:** https://s.shopee.com.br/1BGX9GYhYG
 
-# RTX 5060 8GB - 2.299,90 (AQUI JA DA PRA TESTAR EM ALGUNS CLIENTES + INTERNO)
-https://www.terabyteshop.com.br/produto/35805/placa-de-video-inno3d-nvidia-geforce-rtx-5060-twin-x2-8gb-gddr7-dlss-ray-tracing-n50602-08d7-195071n
-
-# RTX 5060 TI 8GB - 2499,00 (MESMA COISA DA DE CIMA, MAS COM UM POUCO MAIS DE PODER COMPUTACIONAL(CUDA CORES))
-https://tidd.ly/3MoXS5W
-
-# RTX 5060 TI 16GB - 3.459 (MELHOR C&B, IGUAL A DE CIMA, MAS COM MAIS VRAM, OQ FAZ ELA SER A MELHOR "BARATA" PRA IA.)
-https://s.shopee.com.br/1BGX9GYhYG
-
-# RTX 5070 12GB - 3.999 (2o MELHOR C&B, UNICO LIMITANTE DELA SAO OS 12GB DE VRAM, NAO E RUIM, MAS 16GB E O TOPO.)
-https://tidd.ly/4eM9TMC
-
-# RTX 5070 TI 16GB - 7.499,99 (ESSA AQUI ELA JA DA PRA FICAR COM ELA TRANQUILAMENTE POR UM BOM TEMPO, POTENCIA TEM DE SOBRA, E MEMORIA TBM)
-https://www.pichau.com.br/placa-de-video-pny-geforce-rtx-5070-ti-oc-triple-fan-16gb-gddr7-256-bit-vcg5070t16tfxpb1-o
-# RTX 5080 16GB - 10.199,99 (SENDO SINCERO, ATENDE ATE UNS 20 CLIENTES AO MESMO TEMPO)
-https://www.kabum.com.br/produto/697894/placa-de-video-gigabyte-rtx-5080-gaming-oc-nvidia-16gb-gddr7-bios-dual-ia-com-fp4-dlss-4-gv-n5080gaming-oc-16gd-g10
-
-# RTX 5090 32GB 25.599,99 (SIMPLESMENTE MAGNIFICO! DISPENSA COMENTARIOS.)
-https://www.pichau.com.br/placa-de-video-gigabyte-geforce-rtx-5090-aorus-master-32gb-gddr7-512-bit-gv-n5090aorus-m-32gd
+# OPÇÃO 3: "O SERVIDOR PRO" (KIT 2x RTX 5060 TI 16GB) - R$ 6.918,00
+**Para que serve:** Para escalar e vender o serviço comercialmente.
+**O que entrega:** São duas placas trabalhando juntas. Enquanto uma atende um cliente, a outra atende outro. Garante que o sistema não caia mesmo com várias pessoas usando ao mesmo tempo. É poder de empresa grande com preço acessível.
+**Link (Comprar 2 unidades):** https://s.shopee.com.br/1BGX9GYhYG
